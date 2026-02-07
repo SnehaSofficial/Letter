@@ -177,12 +177,12 @@ html, body {
 
 
 @keyframes slideshow {
-  0% {
+ 0%{
     background-image: url("pic/img11.jpeg");}
-  25% {
+  25%{
     background-image: url("pic/img12.jpeg");
   }
-  50% {
+  50%{
     background-image: url("pic/img13.jpeg");
   }
   75% {
@@ -194,6 +194,10 @@ html, body {
   
 
  
+}
+.slideshow{
+background-size: cover;
+  background-position: center;
 }
 
 
