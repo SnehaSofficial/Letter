@@ -178,18 +178,18 @@ html, body {
 
 @keyframes slideshow {
   0% {
-    background-image: url("pic/_\ \(11\).jpeg");}
+    background-image: url("pic/img11.jpeg");}
   25% {
-    background-image: url("pic/_\ \(12\).jpeg");
+    background-image: url("pic/img12.jpeg");
   }
   50% {
-    background-image: url("pic/_\ \(13\).jpeg");
+    background-image: url("pic/img13.jpeg");
   }
   75% {
-    background-image: url("pic/_\ \(14\).jpeg");
+    background-image: url("pic/img14.jpeg");
   }
   100% {
-    background-image: url("pic/_\ \(15\).jpeg");
+    background-image: url("pic/img15.jpeg");
   }
   
 
